@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="615a1e68-6578-4f21-b7df-ad7b95f1d864" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/logs/system.log" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/logs/system.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/EnumTest/CategoriaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/EnumTest/CategoriaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaComprasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaComprasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaDescritorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaDescritorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaNomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaNomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTotalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTotalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaTempoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaTempoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemExeceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemExeceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerListaExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerListaExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/CompraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/CompraTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuantidadeFixaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuantidadeFixaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuiloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuiloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorUnidadeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorUnidadeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ListaDeComprasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ListaDeComprasTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/Lista_pra_mim-Project/bin/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1529087328">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="classpath" value="1" />
+          <entry key="java" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Eclipse" value="1" />
+          <entry key="JAVA" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1045" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1045" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/src/Comparators/ComparaHora.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/src/Comparators/ComparaDescritor.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaNomeTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTotalTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaTempoTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaComprasTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaDescritorTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemExeceptionTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerListaExceptionTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuantidadeFixaTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/CompraTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ListaDeComprasTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorUnidadeTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuiloTest.java" />
+        <option value="$PROJECT_DIR$/Lista_pra_mim-Project/tests/EnumTest/CategoriaTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="117" />
+    <option name="width" value="950" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LP2-PROJETO-FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LP2-PROJETO-FINAL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LP2-PROJETO-FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LP2-PROJETO-FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista_pra_mim-Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LP2-PROJETO-FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LP2-PROJETO-FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista_pra_mim-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LP2-PROJETO-FINAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LP2-PROJETO-FINAL" type="462c0819:PsiDirectoryNode" />
+              <item name="Lista_pra_mim-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533218556273" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Lista_pra_mim-Project">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="All in Lista_pra_mim-Project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lista_pra_mim-Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemPorQuantidadeFixaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lista_pra_mim-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entidadesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entidadesTests" />
+      <option name="MAIN_CLASS_NAME" value="entidadesTests.ItemPorQuantidadeFixaTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemPorQuiloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lista_pra_mim-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entidadesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entidadesTests" />
+      <option name="MAIN_CLASS_NAME" value="entidadesTests.ItemPorQuiloTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemPorUnidadeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lista_pra_mim-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="entidadesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="entidadesTests" />
+      <option name="MAIN_CLASS_NAME" value="entidadesTests.ItemPorUnidadeTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controllersTests in Lista_pra_mim-Project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lista_pra_mim-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllersTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controllersTests" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Lista_pra_mim-Project" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ItemPorQuantidadeFixaTest" />
+      <item itemvalue="JUnit.ItemPorQuiloTest" />
+      <item itemvalue="JUnit.ItemPorUnidadeTest" />
+      <item itemvalue="JUnit.controllersTests in Lista_pra_mim-Project" />
+      <item itemvalue="JUnit.All in Lista_pra_mim-Project" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Lista_pra_mim-Project" />
+        <item itemvalue="JUnit.controllersTests in Lista_pra_mim-Project" />
+        <item itemvalue="JUnit.ItemPorUnidadeTest" />
+        <item itemvalue="JUnit.ItemPorQuiloTest" />
+        <item itemvalue="JUnit.ItemPorQuantidadeFixaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="615a1e68-6578-4f21-b7df-ad7b95f1d864" name="Default" comment="" />
+      <created>1532008288244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532008288244</updated>
+      <workItem from="1532008297827" duration="102000" />
+      <workItem from="1532016853580" duration="97000" />
+      <workItem from="1533086838449" duration="449000" />
+      <workItem from="1533216459956" duration="2093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CategoriaTest - 2018.08.02 at 11h 00m 56s.xml">
+      <configuration name="CategoriaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ListaDeComprasTest - 2018.08.02 at 11h 01m 24s.xml">
+      <configuration name="ListaDeComprasTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CompraTest - 2018.08.02 at 11h 01m 31s.xml">
+      <configuration name="CompraTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPorQuantidadeFixaTest - 2018.08.02 at 11h 01m 38s.xml">
+      <configuration name="ItemPorQuantidadeFixaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPorQuiloTest - 2018.08.02 at 11h 01m 43s.xml">
+      <configuration name="ItemPorQuiloTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPorUnidadeTest - 2018.08.02 at 11h 01m 49s.xml">
+      <configuration name="ItemPorUnidadeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="controllersTests_in_Lista_pra_mim-Project - 2018.08.02 at 11h 01m 59s.xml">
+      <configuration name="controllersTests in Lista_pra_mim-Project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Lista_pra_mim-Project - 2018.08.02 at 11h 02m 05s.xml">
+      <configuration name="All in Lista_pra_mim-Project" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2741000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12966916" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32826087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32879582" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/src/entidades/Compras.java" />
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/src/Comparators/ComparaNome.java" />
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/src/Comparators/ComparaDescritor.java" />
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/src/facade/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5010">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/src/entidades/Persistencia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="87" column="44" selection-start-line="87" selection-start-column="44" selection-end-line="87" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/src/comparators/ComparaCompras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaComprasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaDescritorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaNomeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaTempoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="87" column="63" selection-start-line="87" selection-start-column="63" selection-end-line="87" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/comparatorsTests/ComparaPrecoTotalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemExeceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3855">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3495">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerListaExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/controllersTests/ControllerListaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2385">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/EnumTest/CategoriaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ListaDeComprasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8010">
+          <caret line="569" column="16" selection-start-line="569" selection-start-column="16" selection-end-line="569" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/CompraTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuantidadeFixaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorQuiloTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lista_pra_mim-Project/tests/entidadesTests/ItemPorUnidadeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2115">
+          <caret line="167" column="7" lean-forward="true" selection-start-line="167" selection-start-column="7" selection-end-line="167" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LP2-PROJETO-FINAL</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>easyaccept</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
