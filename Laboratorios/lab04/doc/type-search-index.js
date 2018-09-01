@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"lab04","l":"Aluno"},{"p":"lab04","l":"AlunoTest"},{"p":"lab04","l":"Grupo"},{"p":"lab04","l":"GrupoTest"},{"p":"lab04","l":"Main"},{"p":"lab04","l":"Sistema"},{"p":"lab04","l":"SistemaTest"}]
